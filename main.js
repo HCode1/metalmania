@@ -1,7 +1,4 @@
 $(document).ready(function() {
-  // $('#toggle-menu').on('click', function() {
-  //   $('#nav-menu').toggle();
-  // });
 
   $(function() {
     var pull    = $('#pull');
